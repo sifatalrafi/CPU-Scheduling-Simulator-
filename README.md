@@ -18,7 +18,7 @@
      Step 3: Replace YOUR_VIDEO_ID in both places below
      ================================================================ -->
 
-[![CPU Scheduling Simulator Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![CPU Scheduling Simulator Demo](https://img.youtube.com/vi/BcFVagCgf5s/maxresdefault.jpg)](https://www.youtube.com/watch?v=BcFVagCgf5s)
 
 > *Click the thumbnail above to watch the full demo (3–5 min)*
 
