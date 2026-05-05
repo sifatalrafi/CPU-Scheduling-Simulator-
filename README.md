@@ -2,8 +2,6 @@
 
 > A feature-rich terminal-based CPU scheduling simulator built in **C++17** — developed for **CSE323: Operating Systems**.
 
-**Student:** Sifat Al Rafi &nbsp;|&nbsp; **ID:** 2211653642 &nbsp;|&nbsp; **Course:** CSE323 — Operating Systems
-
 ---
 
 ## 📽️ Demo Video
